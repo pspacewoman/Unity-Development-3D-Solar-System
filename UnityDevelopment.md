@@ -33,11 +33,5 @@ Unity's editor consists of **multiple panels**, each serving a unique purpose:
 2️⃣ **🕹️ Game View** – Hit "Play" ▶️ to **compile and preview** the game from the active camera.  
 3️⃣ **📜 Hierarchy Panel** – A **list of all objects** in the game scene; rename, organize, or delete them (`Shift + Delete`).  
 4️⃣ **📂 Project Panel** – Contains all **usable assets** (files, models, scripts) located in the `Assets` folder.  
-5️⃣ **🔧 Inspector** – View and **edit properties** of selected objects from Scene View, Hierarchy, or Project Panel.  
-
----
-
-💡 **Pro Tip:** Use **Window > Layouts > 2 by 3** to arrange these panels for an **optimized workflow**! 🚀  
-
-🎨 Start building **amazing games** with Unity today! 🎮  
+5️⃣ 🔧 Inspector** – View and **edit properties** of selected objects from Scene View, Hierarchy, or Project Panel.  
 
