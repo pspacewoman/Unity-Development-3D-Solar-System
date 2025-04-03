@@ -3,10 +3,12 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📝 About This Project
-Game Design and Development course offered by Michigan State University (MSU) on Coursera. The goal was to build and refine a game using "Unity" while documenting my progress.
+Game Design and Development on UNITY course offered by Michigan State University (MSU). The goal was to build and refine a game using "Unity" while documenting my progress.
 
 ## Software Development Editors
 🚀 Unity
+
+Other tools: Script editor, image editor, 3D modeler, 2D modeler
 
 ## Framework Followed for development
 [Development Framework](https://github.com/user-attachments/assets/0269570c-436c-4120-9a1d-107c07ca8543)
