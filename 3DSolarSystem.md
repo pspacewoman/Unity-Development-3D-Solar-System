@@ -18,6 +18,8 @@
 ### Checkpoint 1:  
 ✔️ Used Assets, Materials, and Skybox 🌠  
 
+https://github.com/user-attachments/assets/ef180d47-38f8-47dd-9557-e291466e8c29
+
 <img width="726" alt="Screenshot 2025-04-03 at 18 01 36" src="https://github.com/user-attachments/assets/6f76030f-00c0-4814-b2d8-f18164cece89" />  
 
 ---
