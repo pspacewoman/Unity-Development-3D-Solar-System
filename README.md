@@ -5,14 +5,15 @@
 ## 📝 About This Project
 Game Design and Development course offered by Michigan State University (MSU) on Coursera. The goal was to build and refine a game using "Unity" while documenting my progress.
 
+## Development (Game) Editors
+🚀 Unity
+
 ## Framework Followed for development
 [Development Framework](https://github.com/user-attachments/assets/0269570c-436c-4120-9a1d-107c07ca8543)
 
 ## Game Technology Stack
 ![Screenshot 2025-04-03 at 15 22 30](https://github.com/user-attachments/assets/07bb0a21-0751-41b2-8122-aa40b7626c9f)
 
-## Game Editors
-🚀 Unity
 
 ## 🚀 Project Overview
 - Game Engine:** Unity
