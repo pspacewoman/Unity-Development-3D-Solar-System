@@ -5,7 +5,7 @@
 ## 📝 About This Project
 Game Design and Development course offered by Michigan State University (MSU) on Coursera. The goal was to build and refine a game using "Unity" while documenting my progress.
 
-## Development (Game) Editors
+## Software Development Editors
 🚀 Unity
 
 ## Framework Followed for development
