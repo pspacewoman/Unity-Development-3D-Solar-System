@@ -17,12 +17,12 @@ Unity is one of the **most popular** game engines and software development tools
 
 ## 🎯 What Makes Unity Awesome?  
 
-🔥 **Supports Iterative Development** – Modify your game **in real-time** without restarting!  
-⚡ **Efficient Engine** – Optimized for performance across multiple platforms.  
-🎮 **Cross-Platform** – Build games for **PC, Mac, Mobile, Console, Web, VR, AR, and more**.  
-💰 **Budget-Friendly** – Free to start, with powerful **Pro and Enterprise** versions available.  
-💼 **Industry Standard** – Many game studios **prefer Unity expertise** in hiring!  
-🛠️ **Universal Techniques** – Skills learned in Unity **apply to other game engines** too.  
+⚡ Supports Iterative Development** – Modify your game **in real-time** without restarting!  
+⚡ Efficient Engine** – Optimized for performance across multiple platforms.  
+⚡ Cross-Platform** – Build games for **PC, Mac, Mobile, Console, Web, VR, AR, and more**.  
+⚡ Budget-Friendly** – Free to start, with powerful **Pro and Enterprise** versions available.  
+⚡ Industry Standard** – Many game studios **prefer Unity expertise** in hiring!  
+⚡ Universal Techniques** – Skills learned in Unity **apply to other game engines** too.  
 
 ---
 
