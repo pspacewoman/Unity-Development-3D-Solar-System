@@ -1,12 +1,12 @@
-# 🎮 Game Design & Development with Unity
+# 🎮 Game Design & Development with UNITY ✅
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 📝 About This Project
+## About This Project
 Game Design and Development on UNITY course offered by Michigan State University (MSU). The goal was to build and refine a game using "Unity" while documenting my progress.
 
 ## Software Development Editors or Engine
-🚀 Unity
+🚀 UNITY
 
 ![Screenshot 2025-04-03 at 16 28 46](https://github.com/user-attachments/assets/b7483150-abaf-49ba-a34e-5a551f1d890a)
 
@@ -16,7 +16,7 @@ Game Design and Development on UNITY course offered by Michigan State University
 4) Project Panel
 5) Inspector
 
-Other tools: VS Code Editor, Script editor, image editor, 3D modeler, 2D modeler
+✅ Other tools: VS Code Editor, Script editor, image editor, 3D modeler, 2D modeler
 
 ## Framework Followed for development
 [Development Framework](https://github.com/user-attachments/assets/0269570c-436c-4120-9a1d-107c07ca8543)
@@ -33,11 +33,11 @@ Other tools: VS Code Editor, Script editor, image editor, 3D modeler, 2D modeler
 - Repository Purpose: Share my progress, notes, and game development journey
 
 ## 📌 Key Features
-- 🎮 Game Mechanics: Implementing player movement, interactions, and AI
-- 🎨 Game Design: UI/UX principles, sprite creation, and animations
-- 🔥 Physics & Effects: Particle systems, lighting, and physics-based interactions
-- 💾 Data Management: Saving/loading game states, player progress tracking
-- 🌐 Networking (Advanced): Multiplayer game setup and cloud integration
+1. Game Mechanics: Implementing player movement, interactions, and AI
+2. Game Design: UI/UX principles, sprite creation, and animations
+3. Physics & Effects: Particle systems, lighting, and physics-based interactions
+4. Data Management: Saving/loading game states, player progress tracking
+5. Networking (Advanced): Multiplayer game setup and cloud integration
 
 ## 🛠️ Tech Stack
 - Unity - Game Development Engine
@@ -52,7 +52,4 @@ Other tools: VS Code Editor, Script editor, image editor, 3D modeler, 2D modeler
 ✅ Implement Game Physics & Animations  
 ✅ Develop UI/UX for Games  
 ✅ Deploy the Game for Web/Desktop/Mobile  
-
-## 📜 License
-This project is under the MIT License. See `LICENSE` for details.
 
