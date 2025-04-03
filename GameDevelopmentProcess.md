@@ -1,16 +1,16 @@
 # 🎮 The Game Design Process - Part 1: How Are Games Made?  
 
-Game development is like **constructing a building** 🏗️— it requires planning, materials, and execution.  
+Game development is like **constructing a building 🏗️— it requires planning, materials, and execution.  
 
 ---
 
 ## 🎯 Construction Analogy: The Game Development Stack  
 
-Every game is built using a **stack of technologies**:  
+Every game is built using a stack of technologies**:  
 
 ✅ Hardware – The foundation (PC, console, mobile, VR/AR devices).  
 ✅ Operating System – Windows, macOS, Linux, iOS, Android, etc.  
-✅ Games Engineers – Experts in **graphics, physics, networking, and performance.  
+✅ Games Engineers – Experts in graphics, physics, networking, and performance.  
 ✅ Game-Specific Code – The logic that makes the game function.  
 ✅ Graphics – Visual assets, from characters to environments.  
 ✅ Sounds – Music, effects, and voiceovers that bring the world to life.  
