@@ -12,7 +12,45 @@ The Game Design Process - Part 1: How are Games Made?
 # Game ideas come from almost anywhere, and experiences.
 # Creativity is an active, not a passive process.
 
-#role of game designer
-- Elements that make up a game
-- Framework
+##ROLE OF THE GAME DESIGNER
+1. Framework
+2. Elements that make up a game:
+  - conceptual
+  - functional 
+  - artistic
+3. Transmit: team meetings, design documentation
+            -  high concept
+            -  game design doc
+4. Task Implementor: 
+  - Vision holder and 'checker'
+  - QA, Tester
+  - Prototyping
+  - Level Design 
+  - User Interface Design
+  - Manage Teams
+5. Listen: Themselves, players, team, industry, world
+
+## All Games need-
+- Load and display visuals
+- Load and play sounds
+- Receive Player input
+- Game logic
+- Game assets
+
+## How to build this-
+- option 1: 
+    - build core game functionality
+    - build games - specific features
+- option2: use a game engine
+    -  provides core game functionality
+    -  build on top of the engine
+    -  focus on unique elements of your game
+
+## Game Technology Stack
+h/w, os
+
+## Game Editors - UNITY
+   Tools to make assembling games more intuitive and visual.
+
+
 
