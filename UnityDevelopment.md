@@ -7,8 +7,8 @@ Unity is one of the most popular game engines and software development tools in 
 
 ## Why Choose Unity?  
 
-✅ Multi-Purpose – Works for **2D, 3D, AR, VR, and all types of development!  
-✅ Feature-Rich – A powerful engine with advanced physics, rendering, AI, and more**.  
+✅ Multi-Purpose – Works for 2D, 3D, AR, VR, and all types of development!  
+✅ Feature-Rich – A powerful engine with advanced physics, rendering, AI, and more.  
 ✅ Beginner-Friendly – Easy to learn with a deep feature set for professionals.  
 ✅ Seamless Asset Pipeline – Import and manage assets effortlessly.  
 ✅ Great Community & Docs – Tons of **tutorials, forums, and official documentation**.  
@@ -30,7 +30,7 @@ Unity is one of the most popular game engines and software development tools in 
 
 Unity's editor consists of multiple panels, each serving a unique purpose:  
 
-1️⃣  Scene View – The editor view where you navigate, select, and manipulate 3D assets**.  
+1️⃣  Scene View – The editor view where you navigate, select, and manipulate 3D assets.  
 2️⃣  Game View – Hit "Play" ▶ to compile and preview the game from the active camera.  
 3️⃣  Hierarchy Panel – A list of all objects in the game scene; rename, organize, or delete them (`Shift + Delete`).  
 4️⃣  Project Panel – Contains all usable assets (files, models, scripts) located in the `Assets` folder.  
