@@ -7,7 +7,9 @@ Game Design and Development on UNITY course offered by Michigan State University
 
 ## Software Development Editors
 🚀 Unity
+
 ![Screenshot 2025-04-03 at 16 28 46](https://github.com/user-attachments/assets/b7483150-abaf-49ba-a34e-5a551f1d890a)
+
 1) Scene View
 2) Game View
 3) Hierarchy Panel
