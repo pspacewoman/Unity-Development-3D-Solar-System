@@ -1,12 +1,12 @@
 # 🎮 The Game Design Process - Part 1: How Are Games Made?  
 
-Game development is like **constructing a building 🏗️— it requires planning, materials, and execution.  
+Game development is like constructing a building 🏗️— it requires planning, materials, and execution.  
 
 ---
 
 ## 🎯 Construction Analogy: The Game Development Stack  
 
-Every game is built using a stack of technologies**:  
+Every game is built using a stack of technologies:  
 
 ✅ Hardware – The foundation (PC, console, mobile, VR/AR devices).  
 ✅ Operating System – Windows, macOS, Linux, iOS, Android, etc.  
@@ -37,7 +37,7 @@ Creativity is an active process, not a passive one.
    - ✅ Level Design  
    - ✅ User Interface Design  
    - ✅ Team Management  
-     Listen!** – Pay attention to players, the team, industry trends, and the world.  
+     Listen! – Pay attention to players, the team, industry trends, and the world.  
 
 ---
 
@@ -57,8 +57,8 @@ Creativity is an active process, not a passive one.
 ✔️ Develop core game functionality 
 ✔️ Add game-specific features manually 
 
-### 🔹 Option 2: Use a Game Engine**  
-✔️ A game engine provides **core functionality (graphics, physics, sound, AI).  
-✔️ Build on top** of the engine.  
+### 🔹 Option 2: Use a Game Engine  
+✔️ A game engine provides core functionality (graphics, physics, sound, AI).  
+✔️ Build on top of the engine.  
 ✔️ Focus on what makes your game unique!  
 
