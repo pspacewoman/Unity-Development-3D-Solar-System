@@ -26,7 +26,7 @@ Game Design and Development on UNITY course offered by Michigan State University
 
 
 ## 🚀 Project Overview
-- Game Engine:** Unity
+- Game Engine: Unity
 - Programming Language: C#
 - Project Type: 2D/3D Game (TBD based on coursework)
 - Development Platform Windows / macOS
