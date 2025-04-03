@@ -1,4 +1,4 @@
-# 🚀 SOFTWARE DEVELOPMENT TOOL: UNITY 🎮  
+# SOFTWARE DEVELOPMENT TOOL: UNITY 🎮  
 My Own Notes-
 
 Unity is one of the most popular game engines and software development tools in the industry! Whether you're building 2D, 3D, AR, VR, or multiplayer games, Unity has you covered.  
