@@ -1,4 +1,11 @@
 Coordinate systems
 
-![Screenshot 2025-04-03 at 17 10 39](https://github.com/user-attachments/assets/2f65ab3b-69cf-4d02-9109-cc4fc5a782d6)
+Q. How do we define models position, rotation and scale in 3d space?
+ USING Multiple Vectors
+
+- Position the displacement from the origin of the world coordinate system
+- Rotation is the degree rotation around each axis 
+- Scale is the scale factor on each axis
+
+A transform is a mathematical concept which packages position, rotation, and scale together.
 
