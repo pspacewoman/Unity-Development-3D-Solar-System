@@ -15,3 +15,25 @@ Unity is the most common game engine and game editor used in the game industry a
 - relatively inexpensive
 - employers seek unity expertise
 - techniques apply to other engines
+
+
+Standard Unity View (Window > Layouts > 2 by 3)
+
+1) Scene View = the editor view that allows you to
+navigate the 3D world, as well as select and manipulate
+3D assets in the world.
+
+2) Game View = Upon hitting “play” in the top middle of the
+screen, you’ll compile and preview the gameplay in this
+view. By default the view shows the active camera.
+
+3) Hierarchy Panel = This is a hierarchical list of objects in
+the game. You can select objects, rename them, and
+delete them (Shift-Delete)
+
+4) Project Panel = This shows all the usable “assets” (files)
+located in the project’s Assets folder.
+
+5) Inspector = Allows you to view and edit the component
+settings for the selected object in the Scene View,
+Hierarchy, or Project Panel.
