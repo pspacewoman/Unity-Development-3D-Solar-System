@@ -1,4 +1,5 @@
-# 🎮 The Game Design Process - Part 1: How Are Games Made?  
+# 🎮 The Game Design Process - 
+How Are Games Made?  
 
 Game development is like constructing a building 🏗️— it requires planning, materials, and execution.  
 
