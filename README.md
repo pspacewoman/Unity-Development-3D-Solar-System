@@ -7,15 +7,14 @@ Game Design and Development on UNITY course offered by Michigan State University
 
 ## Software Development Editors
 🚀 Unity
-Other tools: VS Code Editor, Script editor, image editor, 3D modeler, 2D modeler
-
 ![Screenshot 2025-04-03 at 16 28 46](https://github.com/user-attachments/assets/b7483150-abaf-49ba-a34e-5a551f1d890a)
-
 1) Scene View
 2) Game View
 3) Hierarchy Panel
 4) Project Panel
 5) Inspector
+
+Other tools: VS Code Editor, Script editor, image editor, 3D modeler, 2D modeler
 
 ## Framework Followed for development
 [Development Framework](https://github.com/user-attachments/assets/0269570c-436c-4120-9a1d-107c07ca8543)
