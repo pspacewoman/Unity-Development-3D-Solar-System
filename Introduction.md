@@ -5,7 +5,7 @@
 ## 📝 About This Project
 Game Design and Development on UNITY course offered by Michigan State University (MSU). The goal was to build and refine a game using "Unity" while documenting my progress.
 
-## Software Development Editors
+## Software Development Editors or Engine
 🚀 Unity
 
 ![Screenshot 2025-04-03 at 16 28 46](https://github.com/user-attachments/assets/b7483150-abaf-49ba-a34e-5a551f1d890a)
