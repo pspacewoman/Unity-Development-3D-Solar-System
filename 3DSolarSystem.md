@@ -2,15 +2,16 @@
 
 View on **https://priyanshi-singh.itch.io/solar-system**
 
+BUILT FROM SCRATCH
+
 ## 🎯 Objective:  
-- 🌍 Creating a Primitive model for the Solar System  
-- 🛠 Tools: Unity Editor  
-- 🔑 Concepts: Creating game objects, understanding 3D space, materials, behaviors, basic lighting, audio, cameras, build & test  
+- Creating a Primitive model for the Solar System  
+- Tools: Unity Editor  
+- Concepts: Creating game objects, understanding 3D space, materials, behaviors, basic lighting, audio, cameras, build & test  
 
 ## 🎨 Materials:  
 ✅ Enhanced the look of my Solar System 🌞🌍🌙 3D project using materials.  
-✅ Game object is made of 3D materials:   
-   Game Object → Material → Shader → Texture**  
+✅ Game object is made of 3D materials: Game Object → Material → Shader → Texture**  
 ✅ Objective: Create materials for Earth, Sun, Moon & a Skybox (Outer Space) 🌠  
 
 ---
