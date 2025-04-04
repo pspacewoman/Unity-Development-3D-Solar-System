@@ -1,4 +1,4 @@
-# 🚀 UNITY PROJECT: 3D DEVELOPMENT 🌌  
+# 🚀 UNITY PROJECT : 3D GAME DEVELOPMENT 🌌  
 
 **View my Game on: https://priyanshi-singh.itch.io/solar-system**
 
