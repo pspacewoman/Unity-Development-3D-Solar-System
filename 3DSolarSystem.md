@@ -1,4 +1,4 @@
-# 🚀 UNITY PROJECT: 3D DEVELOPMENT 🌌  
+# 🚀 3D DEVELOPMENT  
 
 ## 🎯 Objective:  
 - 🌍 Creating a Primitive model for the Solar System  
