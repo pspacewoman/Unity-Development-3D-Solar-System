@@ -11,3 +11,6 @@
 
 ## 🚀 Unity Skill Implemented:
 Demonstrated my understanding of the Unity editor, creating and positioning gameobjects, apply behaviors, creating and applying materials, adding lighting and audio, adjusting cameras, building the project, building the projects, and packaging it for sharing.
+
+## How to test the Game:
+click on any components and you switch/hop on that GameObject View and game scene.
