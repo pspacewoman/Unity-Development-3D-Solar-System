@@ -70,5 +70,23 @@ Types of light -
    - ![Screenshot 2025-04-04 at 18 21 07](https://github.com/user-attachments/assets/ac56635f-2f87-4239-b234-4a136c5ea4b6)
 
  ##**Build & Test**
- - 
+ - Mac
+ - Windows
+ - Web GL
+ - Built solarsystem app for all 3 platforms
+ - check and make the builds before every publishing
+
+##**Solar System Project**
+- made my own solar system unity project
+- hands-on from scratch to build to modify and publishing
+
+##**Publish Project**
+- gather screenshots
+- compress the builds for distribution
+- publish the project
+- using itch.io to host our game for this project
+- location of the project:
+- 
+
+
 
