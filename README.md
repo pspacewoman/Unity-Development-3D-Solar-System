@@ -1,6 +1,7 @@
 # 🚀 UNITY PROJECT : 3D GAME DEVELOPMENT 🌌  
 
 **SOLAR SYSTEM**
+✅ BUILT FROM SCRATCH 👩🏻‍💻
 
 **View my Game on: https://priyanshi-singh.itch.io/solar-system**
 
@@ -15,4 +16,4 @@ Demonstrated my understanding of the Unity editor, creating and positioning game
 ## How to test the Game:
 - ✅ Tap on any components and you are then hopped on that GameObject and the view and game scene changes based on the GameObject Selected.
 - ✅ More components and interactivity coming soon.
-- ✅ BUILT FROM SCRATCH 🚀🚀👩🏻‍💻
+
