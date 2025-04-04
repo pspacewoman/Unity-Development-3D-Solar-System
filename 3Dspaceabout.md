@@ -1,4 +1,4 @@
-## MY LEARNING (NOTES)
+## MY LEARNING (HAND-WRITTEN NOTES)
 
 # Coordinate systems
 
@@ -88,7 +88,6 @@ Types of light -
 - publish the project
 - using itch.io to host our game for this project
 - location of the project:
-- 
 
 
 
