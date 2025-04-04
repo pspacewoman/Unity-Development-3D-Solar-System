@@ -18,7 +18,7 @@ Demonstrated my understanding of the Unity editor, creating and positioning game
 - ✅ Tap on any components and you are then hopped on that GameObject and the view and game scene changes based on the GameObject Selected.
 - ✅ More components and interactivity coming soon.
 
-## Software Development Editors or Engine
+## Software Development Editors (Unity Engine)
 🚀 UNITY
 
 ![Screenshot 2025-04-03 at 16 28 46](https://github.com/user-attachments/assets/b7483150-abaf-49ba-a34e-5a551f1d890a)
