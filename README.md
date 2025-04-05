@@ -1,5 +1,7 @@
 # 🚀 UNITY PROJECT : 3D GAME DEVELOPMENT 🌌  
 
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 **Interactive Solar System** (3D Game Objects).
 
 ✅ BUILT FROM SCRATCH 👩🏻‍💻
