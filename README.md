@@ -1,6 +1,6 @@
 # 🚀 UNITY PROJECT : 3D GAME DEVELOPMENT 🌌  
 
-**Interactive Solar System** with 3D GameObjects.
+**Interactive Solar System** (3D Game Objects).
 
 ✅ BUILT FROM SCRATCH 👩🏻‍💻
 
