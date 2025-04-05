@@ -4,7 +4,7 @@
 
 ✅ BUILT FROM SCRATCH 👩🏻‍💻
 
-**View my Game on: 
+View my Game on: 
 
 Itch.io -  **https://priyanshi-singh.itch.io/solar-system**
 
