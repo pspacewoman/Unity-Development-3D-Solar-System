@@ -24,7 +24,9 @@ Behance -  **https://www.behance.net/gallery/223029717/UNITY-3D-SOLAR-SYSTEM-GAM
 ## 🚀 Unity Skill Implemented:
 Demonstrated my understanding of the Unity editor, creating and positioning game objects, applying behaviours, creating and applying materials, adding lighting and audio, adjusting cameras, building the project, building the projects, and packaging it for sharing.
 
-<img width="800" alt="Screenshot 2025-04-05 at 00 19 24" src="https://github.com/user-attachments/assets/8e7f54a2-acbb-496a-a03b-d313e7ffcf79" />
+<img width="195" alt="Hierarchy Mode" src="https://github.com/user-attachments/assets/c8b0ad4f-571c-4cf2-a4fb-65203448911e" />
+
+<img width="178" alt="Project-Component List" src="https://github.com/user-attachments/assets/61df6750-ee28-49fa-bf8f-51bb0f5284ca" />
 
 
 ## How to test the Game:
