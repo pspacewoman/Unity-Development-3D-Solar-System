@@ -44,4 +44,15 @@ public int playerHeallth
       - while loop
       - for loops
       - foreach loops
-- 
+
+**Functions & Classes**
+- Functions can perform specific tasks
+- Syntax:
+  AccessModifier ReturnType FunctionName Arguments
+  public void DoAction ()
+- Class is a container for a related group of variables, properties, methods and functions.
+- Syntax:
+   AccessModifier ClassKeyword ClassName BaseClass
+   public class Player :MonoBehavior
+
+  ![Screenshot 2025-04-07 at 15 21 01](https://github.com/user-attachments/assets/ba818bda-6eef-4949-9d2d-7d80caa46c76)
