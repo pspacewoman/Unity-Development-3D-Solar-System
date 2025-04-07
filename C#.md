@@ -8,7 +8,7 @@
 
 ![Screenshot 2025-04-07 at 02 51 36](https://github.com/user-attachments/assets/d3b8ac7f-78ea-4233-b8e0-b804f833f51a)
 
-## **Programming in C# **
+## Programming in C# 
 General
 - debug classes:
     - Debug.Log
