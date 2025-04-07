@@ -24,3 +24,4 @@
 - Classes are linked to the hierarchy
 - child class inherits from its parent class
 - A class can override its parent functionality (polymorphism)
+- objects get all properties and methods that are defined in the class.
