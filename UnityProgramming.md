@@ -17,7 +17,7 @@
 - objects have properties (variables) and methods (functions)
 
 
-<img width="463" alt="Screenshot 2025-04-07 at 02 43 34" src="https://github.com/user-attachments/assets/aec38bd8-e138-438f-9f13-a62d5ff25651" />
+<img width="363" alt="Screenshot 2025-04-07 at 02 43 34" src="https://github.com/user-attachments/assets/aec38bd8-e138-438f-9f13-a62d5ff25651" />
 
 - classes- are templates for creating objects
 - For example- a prefab is a template game object. We can create many game objects using prefab.
