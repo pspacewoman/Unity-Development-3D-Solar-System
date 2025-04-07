@@ -1,4 +1,4 @@
-##**Anatomy of a C# Script**
+**Anatomy of a C# Script**
 - Script created becomes game assets (under projects in UNITY)
 - Edit scripts on Visual Studio
 
