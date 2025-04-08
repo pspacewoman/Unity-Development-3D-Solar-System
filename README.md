@@ -6,7 +6,7 @@
 
 ---
 
-**"Interactive Solar System** (3D Objects)"
+**👩🏻‍💻"Interactive Solar System"** (3D Objects)
 
 📌 **Live Project**: 
 
