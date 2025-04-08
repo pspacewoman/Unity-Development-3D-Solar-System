@@ -20,10 +20,14 @@ Behance -  **https://www.behance.net/gallery/223029717/UNITY-3D-SOLAR-SYSTEM-GAM
 
 BUILT FROM SCRATCH 👩🏻‍💻
 
+---
+
 ## 🎯 About:  
 - Creating a Primitive model for the Solar System  
 - Tools: Unity Editor  
 - Concepts: Creating game objects, understanding 3D space, materials, behaviours, basic lighting, audio, cameras, build & test  
+
+---
 
 ## 🚀 Unity Skill Implemented:
 Demonstrated my understanding of the Unity editor, creating and positioning game objects, applying behaviours, creating and applying materials, adding lighting and audio, adjusting cameras, building the project, building the projects, and packaging it for sharing.
@@ -32,10 +36,13 @@ Demonstrated my understanding of the Unity editor, creating and positioning game
 
 <img width="178" alt="Project-Component List" src="https://github.com/user-attachments/assets/61df6750-ee28-49fa-bf8f-51bb0f5284ca" />
 
+---
 
 ## How to test the Game:
 - ✅ Tap on any components, and you are then hopped on that GameObject, and the view and game scene change based on the GameObject Selected.
 - ✅ More components and interactivity coming soon.
+
+---
 
 ## Software Development Editors (Unity Engine)
 🚀 About UNITY
