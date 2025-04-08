@@ -7,8 +7,6 @@
 
 **Interactive Solar System** (3D Game Objects).
 
-✅ BUILT FROM SCRATCH 👩🏻‍💻
-
 View my Game on: 
 
 Itch.io -  **https://priyanshi-singh.itch.io/solar-system**
@@ -16,9 +14,10 @@ Itch.io -  **https://priyanshi-singh.itch.io/solar-system**
 Behance -  **https://www.behance.net/gallery/223029717/UNITY-3D-SOLAR-SYSTEM-GAME**
 
 
- <img width="1433" alt="SolarSystem-UnityView" src="https://github.com/user-attachments/assets/7819d5a2-5e06-4dcc-99ad-5d9e611541ee" />
+<img width="1433" alt="SolarSystem-UnityView" src="https://github.com/user-attachments/assets/7819d5a2-5e06-4dcc-99ad-5d9e611541ee" />
 
 
+BUILT FROM SCRATCH 👩🏻‍💻
 
 ## 🎯 About:  
 - Creating a Primitive model for the Solar System  
