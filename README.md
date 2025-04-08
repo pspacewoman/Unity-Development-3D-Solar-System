@@ -2,7 +2,7 @@
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-✅ I like making 2D and 3D - games, software, environments and many more with continuous learning
+✅ I enjoy creating 2D & 3D games, interactive software, and immersive environments—always fueled by continuous learning and curiosity.
 
 ---
 
