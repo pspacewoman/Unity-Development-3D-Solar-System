@@ -2,6 +2,8 @@
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+I like making 2D and 3D - games, software, environment.
+
 **Interactive Solar System** (3D Game Objects).
 
 ✅ BUILT FROM SCRATCH 👩🏻‍💻
@@ -14,6 +16,7 @@ Behance -  **https://www.behance.net/gallery/223029717/UNITY-3D-SOLAR-SYSTEM-GAM
 
 
  <img width="1433" alt="SolarSystem-UnityView" src="https://github.com/user-attachments/assets/7819d5a2-5e06-4dcc-99ad-5d9e611541ee" />
+
 
 
 ## 🎯 About:  
