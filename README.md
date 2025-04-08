@@ -7,7 +7,7 @@
 
 **"Interactive Solar System** (3D Objects)"
 
-View my Game on: 
+📌 **Live Project (Version 1.0)**: 
 
 Itch.io -  **https://priyanshi-singh.itch.io/solar-system**
 
