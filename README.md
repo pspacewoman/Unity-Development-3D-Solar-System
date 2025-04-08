@@ -2,7 +2,7 @@
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-I like making 2D and 3D - games, software, environment.
+**I like making 2D and 3D - games, software, environments and many more with continuous learning.**
 
 **Interactive Solar System** (3D Game Objects).
 
