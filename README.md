@@ -1,8 +1,15 @@
-# 🚀 UNITY PROJECT : 3D Solar System Design & Development 🌌  
+## 🚀 UNITY PROJECT : 3D Solar System Design & Development 🌌  
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-✅ I enjoy creating 2D & 3D games, interactive software, and immersive environments—always fueled by continuous learning and curiosity.
+---
+
+## 📌 My Responsibility Overview
+- Using **Unity 6.1 (URP)** built simulation prototype with **3D Objects**.
+  
+- Designed interactive system simulating planetary motion and player-controlled exploration.
+
+- Used real-time feedback from playtests to refine user controls and camera systems.
 
 ---
 
